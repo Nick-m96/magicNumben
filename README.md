@@ -1,4 +1,4 @@
-# MAGIC NUMBERR
+# MAGIC NUMBER
 
 This game is my first personal project in Python.
 
